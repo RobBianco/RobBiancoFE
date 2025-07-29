@@ -1,0 +1,30 @@
+# Build output
+build/
+.dart_tool/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+build-and-push.sh
+
+# Logs
+*.log
+
+# Dependencies (saranno reinstallate)
+.packages
+
+# Test coverage
+coverage/
